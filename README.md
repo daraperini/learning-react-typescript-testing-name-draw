@@ -15,7 +15,7 @@ To see the result so far, click [here](https://learning-react-typescript-testing
 * CSS
 * React
 * TypeScript
-* Testing (testing library and Jest)
+* Testing (React testing library and Jest)
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -38,5 +38,5 @@ Para acessar a página atual, clique [aqui](https://learning-react-typescript-te
 * CSS
 * React
 * TypeScript
-* Testing (testing library e Jest)
+* Testing (React testing library e Jest)
 
