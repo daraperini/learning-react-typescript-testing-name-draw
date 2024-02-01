@@ -8,6 +8,7 @@ To see the result so far, click [here](https://learning-react-typescript-testing
 
 ## Used tools:
 
+* Figma
 * HTML
 * CSS
 * React
@@ -28,6 +29,7 @@ Para acessar a página atual, clique [aqui](https://learning-react-typescript-te
 
 ## Ferramentas utilizadas:
 
+* Figma
 * HTML
 * CSS
 * React
