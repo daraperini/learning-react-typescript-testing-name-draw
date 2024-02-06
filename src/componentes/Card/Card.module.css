@@ -1,0 +1,18 @@
+.container {
+    background-color: #FFF9EB;
+    height: 100vh;
+    border-radius: 64px 64px 0 0;
+    border: #000 2px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -15%;
+    padding-top: 15%;
+}
+
+@media screen and (min-width: 799px) {
+    .container {
+        margin-top: -8%;
+        padding-top: 8%;
+    }
+}
