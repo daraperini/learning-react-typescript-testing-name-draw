@@ -1,0 +1,24 @@
+.titulo {
+  font-size: 20px;
+  font-weight: 600;
+  color: #4b69fd;
+}
+
+.container__rodape {
+  display: flex;
+  flex-direction: column;
+  gap: 10rem;
+  align-items: center;
+}
+
+@media screen and (min-width: 799px) {
+  .titulo {
+    font-size: 32px;
+  }
+
+  .container__rodape {
+    flex-direction: row;
+    position: absolute;
+    bottom: 15%;
+  }
+}

@@ -8,6 +8,8 @@
     align-items: center;
     margin-top: -15%;
     padding-top: 15%;
+    gap: 36px;
+    position: relative;
 }
 
 @media screen and (min-width: 799px) {

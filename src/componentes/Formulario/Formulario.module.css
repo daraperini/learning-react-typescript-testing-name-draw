@@ -1,0 +1,63 @@
+.formulario {
+  text-align: center;
+}
+
+.input {
+  border-radius: 50px;
+  height: 48px;
+  width: 328px;
+  padding: 0;
+  box-sizing: border-box;
+  background: url("./icones/person_add.png") no-repeat #fff;
+  background-position: 5% 50%;
+  text-align: center;
+  border: 1px solid #000;
+  box-shadow: #000 1.95px 1.95px;
+  margin-bottom: 8px;
+  font-family: 'Poppins', sans-serif;
+  outline: none;
+}
+
+.botao {
+  background-color: #c4c4c4;
+  height: 48px;
+  width: 155px;
+  border-radius: 50px;
+  color: #444444;
+  border: solid #000;
+  border-width: 1px;
+  box-shadow: #000 1.95px 1.95px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.botao:hover {
+  transition: 0.3s;
+  opacity: 0.8;
+}
+
+.erro {
+  background-color: #fe632b5b;
+  line-height: 20px;
+  border-radius: 5px;
+}
+
+@media screen and (min-width: 799px) {
+  .formulario {
+    height: 82px;
+  }
+
+  .input {
+    border-radius: 50px 0 0 50px;
+    height: 100%;
+    width: 500px;
+    background-position: 15% 50%;
+    border: 2px solid #000;
+  }
+
+  .botao {
+    height: 100%;
+    width: 227px;
+    border-radius: 0 50px 50px 0;
+    border-width: 2px 2px 2px 0;
+  }
+}

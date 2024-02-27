@@ -1,0 +1,80 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.titulo {
+  font-size: 20px;
+  font-weight: 600;
+  color: #4b69fd;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+}
+
+.select {
+  border-radius: 50px;
+  height: 75px;
+  width: 476px;
+  padding: 0;
+  box-sizing: border-box;
+  padding-left: 50px;
+  border: 1px solid #000;
+  box-shadow: #000 1.95px 1.95px;
+  margin-bottom: 8px;
+  font-family: 'Poppins', sans-serif;
+  outline: none;
+}
+
+.botao {
+  background: url("./imagens/dado.png") no-repeat #fe652bfc;
+  background-position: 15% 50%;
+  color: #fff;
+  line-height: 24px;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 50px;
+  height: 64px;
+  width: 155px;
+  border: 1px solid #000;
+  box-shadow: #000 1.95px 1.95px;
+  padding-left: 30px;
+}
+
+.botao:hover {
+  background-color: #4b69fdfc;
+  transition: 0.3s;
+}
+
+.botao:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.resultado {
+  font-size: 25px;
+  color: #FE652BFC;
+  text-align: center;
+}
+
+.rodape {
+  text-align: center;
+}
+
+@media screen and (min-width: 799px) {
+  .titulo {
+    font-size: 32px;
+  }
+
+  .botao {
+    background-position: 20% 50%;
+    font-size: 20px;
+    height: 80px;
+    width: 227px;
+  }
+}
