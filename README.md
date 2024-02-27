@@ -1,12 +1,8 @@
 # Draw Secret Santa
 
-Draw Secret Santa is beeing developed during Alura's course *React: testing your components*. During the project I'll perform tests and review layout development with React.
+Draw Secret Santa was developed during Alura's course *React: testing your components*. During the project I learned how to perform tests using Jest library and React testing library. The project was developed using Test Driven Development (TDD) as base. Furthermore, all graphic elements were developed by me from a Figma project provided during the class. Files and folders were also organized by me.
 
-The project is beeing developed based on TDD - test driven development.
-
-> In progress...
-
-To see the result so far, click [here](https://learning-react-typescript-testing-name-draw.vercel.app/).
+To see the final result, click [here](https://learning-react-typescript-testing-name-draw.vercel.app/).
 
 ## Used tools:
 
@@ -23,13 +19,9 @@ To see the result so far, click [here](https://learning-react-typescript-testing
 
 # Sorteador de Amigo Secreto
 
-O Sorteador de Amigo Secreto está sendo desenvolvido a partir do curso *React: testando os seus componentes*, da Alura. Durante o projeto aprenderei a realizar testes e retomarei conhecimentos de criação de layouts com React.
+O Sorteador de Amigo Secreto foi desenvolvido a partir do curso *React: testando os seus componentes*, da Alura. Durante o projeto aprendi a realizar testes utilizando a biblioteca Jest e React testing library. O projeto foi todo desenvolvido baseado no desenvolvimento orientado a testes (TDD). Além disso, todos os elementos gráficos foram desenvolvidos por mim a partir de um Figma disponibilizado no curso. A disposição de pastas e arquivos também foi desenvolvido por mim.
 
-O projeto está sendo desenvolvido baseado no desenvolvimento orientado a testes (TDD).
-
-> Em desenvolvimento...
-
-Para acessar a página atual, clique [aqui](https://learning-react-typescript-testing-name-draw.vercel.app/).
+Para acessar a finalizada, clique [aqui](https://learning-react-typescript-testing-name-draw.vercel.app/).
 
 ## Ferramentas utilizadas:
 
